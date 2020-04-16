@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-10">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/DoNotdelete/RestAssured/rest-assured-4.3.0-dist/rest-assured-4.3.0-deps/activation-1.1.1.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/DoNotdelete/RestAssured/rest-assured-4.3.0-dist/rest-assured-4.3.0-deps/commons-codec-1.9.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/DoNotdelete/RestAssured/rest-assured-4.3.0-dist/rest-assured-4.3.0-deps/commons-lang3-3.4.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/DoNotdelete/RestAssured/rest-assured-4.3.0-dist/rest-assured-4.3.0-deps/commons-logging-1.2.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/DoNotdelete/RestAssured/rest-assured-4.3.0-dist/rest-assured-4.3.0-deps/groovy-3.0.2.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/DoNotdelete/RestAssured/rest-assured-4.3.0-dist/rest-assured-4.3.0-deps/groovy-json-3.0.2.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/DoNotdelete/RestAssured/rest-assured-4.3.0-dist/rest-assured-4.3.0-deps/groovy-xml-3.0.2.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/DoNotdelete/RestAssured/rest-assured-4.3.0-dist/rest-assured-4.3.0-deps/hamcrest-2.1.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/DoNotdelete/RestAssured/rest-assured-4.3.0-dist/rest-assured-4.3.0-deps/httpclient-4.5.3.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/DoNotdelete/RestAssured/rest-assured-4.3.0-dist/rest-assured-4.3.0-deps/httpcore-4.4.6.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/DoNotdelete/RestAssured/rest-assured-4.3.0-dist/rest-assured-4.3.0-deps/httpmime-4.5.3.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/DoNotdelete/RestAssured/rest-assured-4.3.0-dist/rest-assured-4.3.0-deps/jakarta.activation-api-1.2.1.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/DoNotdelete/RestAssured/rest-assured-4.3.0-dist/rest-assured-4.3.0-deps/jakarta.xml.bind-api-2.3.2.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/DoNotdelete/RestAssured/rest-assured-4.3.0-dist/rest-assured-4.3.0-deps/jaxb-osgi-2.3.0.1.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/DoNotdelete/RestAssured/rest-assured-4.3.0-dist/rest-assured-4.3.0-deps/org.apache.sling.javax.activation-0.1.0.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/DoNotdelete/RestAssured/rest-assured-4.3.0-dist/rest-assured-4.3.0-deps/tagsoup-1.2.1.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/DoNotdelete/RestAssured/rest-assured-4.3.0-dist/docs/json-path-4.3.0-javadoc.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/DoNotdelete/RestAssured/rest-assured-4.3.0-dist/docs/json-path-4.3.0-sources.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/DoNotdelete/RestAssured/rest-assured-4.3.0-dist/docs/rest-assured-4.3.0-javadoc.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/DoNotdelete/RestAssured/rest-assured-4.3.0-dist/docs/rest-assured-4.3.0-sources.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/DoNotdelete/RestAssured/rest-assured-4.3.0-dist/docs/rest-assured-common-4.3.0-javadoc.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/DoNotdelete/RestAssured/rest-assured-4.3.0-dist/docs/rest-assured-common-4.3.0-sources.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/DoNotdelete/RestAssured/rest-assured-4.3.0-dist/docs/xml-path-4.3.0-javadoc.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/DoNotdelete/RestAssured/rest-assured-4.3.0-dist/docs/xml-path-4.3.0-sources.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/DoNotdelete/RestAssured/rest-assured-4.3.0-dist/rest-assured-4.3.0.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/DoNotdelete/RestAssured/testng-7.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/DoNotdelete/RestAssured/jackson-annotations-2.10.0.jar"/>
+	<classpathentry kind="lib" path="E:/DoNotdelete/RestAssured/gson-2.8.5.jar"/>
+	<classpathentry kind="lib" path="E:/DoNotdelete/RestAssured/jackson-core-2.10.0.jar"/>
+	<classpathentry kind="lib" path="E:/DoNotdelete/RestAssured/jackson-databind-2.10.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
